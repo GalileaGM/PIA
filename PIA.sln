@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIA", "PIA.csproj", "{F1BC79F7-C3AE-42F9-A0AE-005D06B75C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventana2", "Ventana2\Ventana2.csproj", "{E195C101-0408-46BC-B445-76C966872A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1BC79F7-C3AE-42F9-A0AE-005D06B75C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BC79F7-C3AE-42F9-A0AE-005D06B75C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BC79F7-C3AE-42F9-A0AE-005D06B75C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BC79F7-C3AE-42F9-A0AE-005D06B75C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E195C101-0408-46BC-B445-76C966872A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E195C101-0408-46BC-B445-76C966872A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E195C101-0408-46BC-B445-76C966872A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E195C101-0408-46BC-B445-76C966872A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D80A4C9-2D10-4B89-88DB-AD7BFA0E8284}
+	EndGlobalSection
+EndGlobal
