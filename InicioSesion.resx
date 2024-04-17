@@ -126,7 +126,7 @@
     <value>Broadway, 19.8000011pt</value>
   </data>
   <data name="txtBienvenido.Location" type="System.Drawing.Point, System.Drawing">
-    <value>247, 130</value>
+    <value>289, 130</value>
   </data>
   <data name="txtBienvenido.Size" type="System.Drawing.Size, System.Drawing">
     <value>239, 38</value>
@@ -147,10 +147,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtBienvenido.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>10</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 12</value>
+    <value>316, 12</value>
   </data>
   <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>181, 115</value>
@@ -172,7 +172,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>9</value>
   </data>
   <data name="btnSesion.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
@@ -181,7 +181,7 @@
     <value>Britannic Bold, 12pt</value>
   </data>
   <data name="btnSesion.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 362</value>
+    <value>157, 424</value>
   </data>
   <data name="btnSesion.Size" type="System.Drawing.Size, System.Drawing">
     <value>184, 51</value>
@@ -202,6 +202,249 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnSesion.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="btnRegistrar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnRegistrar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Britannic Bold, 12pt</value>
+  </data>
+  <data name="btnRegistrar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnRegistrar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>449, 410</value>
+  </data>
+  <data name="btnRegistrar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>184, 51</value>
+  </data>
+  <data name="btnRegistrar.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnRegistrar.Text" xml:space="preserve">
+    <value>Registrarte</value>
+  </data>
+  <data name="&gt;&gt;btnRegistrar.Name" xml:space="preserve">
+    <value>btnRegistrar</value>
+  </data>
+  <data name="&gt;&gt;btnRegistrar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnRegistrar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnRegistrar.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="txtNombre.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Britannic Bold, 13.8pt</value>
+  </data>
+  <data name="txtNombre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 186</value>
+  </data>
+  <data name="txtNombre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>342, 26</value>
+  </data>
+  <data name="txtNombre.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="txtNombre.Text" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="txtNombre.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.Name" xml:space="preserve">
+    <value>txtNombre</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="txtContra.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Britannic Bold, 13.8pt</value>
+  </data>
+  <data name="txtContra.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 378</value>
+  </data>
+  <data name="txtContra.Size" type="System.Drawing.Size, System.Drawing">
+    <value>342, 26</value>
+  </data>
+  <data name="txtContra.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="txtContra.Text" xml:space="preserve">
+    <value>Contraseña</value>
+  </data>
+  <data name="txtContra.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtContra.Name" xml:space="preserve">
+    <value>txtContra</value>
+  </data>
+  <data name="&gt;&gt;txtContra.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtContra.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtContra.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="txtCorreo.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Britannic Bold, 13.8pt</value>
+  </data>
+  <data name="txtCorreo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 218</value>
+  </data>
+  <data name="txtCorreo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>342, 26</value>
+  </data>
+  <data name="txtCorreo.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="txtCorreo.Text" xml:space="preserve">
+    <value>Correo</value>
+  </data>
+  <data name="txtCorreo.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtCorreo.Name" xml:space="preserve">
+    <value>txtCorreo</value>
+  </data>
+  <data name="&gt;&gt;txtCorreo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtCorreo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtCorreo.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="txtCelular.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Britannic Bold, 13.8pt</value>
+  </data>
+  <data name="txtCelular.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 250</value>
+  </data>
+  <data name="txtCelular.Size" type="System.Drawing.Size, System.Drawing">
+    <value>342, 26</value>
+  </data>
+  <data name="txtCelular.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="txtCelular.Text" xml:space="preserve">
+    <value>Celular</value>
+  </data>
+  <data name="txtCelular.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtCelular.Name" xml:space="preserve">
+    <value>txtCelular</value>
+  </data>
+  <data name="&gt;&gt;txtCelular.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtCelular.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtCelular.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="txtEmpresa.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Britannic Bold, 13.8pt</value>
+  </data>
+  <data name="txtEmpresa.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 282</value>
+  </data>
+  <data name="txtEmpresa.Size" type="System.Drawing.Size, System.Drawing">
+    <value>342, 26</value>
+  </data>
+  <data name="txtEmpresa.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="txtEmpresa.Text" xml:space="preserve">
+    <value>Empresa</value>
+  </data>
+  <data name="txtEmpresa.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtEmpresa.Name" xml:space="preserve">
+    <value>txtEmpresa</value>
+  </data>
+  <data name="&gt;&gt;txtEmpresa.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtEmpresa.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtEmpresa.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txtRFC.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Britannic Bold, 13.8pt</value>
+  </data>
+  <data name="txtRFC.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 314</value>
+  </data>
+  <data name="txtRFC.Size" type="System.Drawing.Size, System.Drawing">
+    <value>342, 26</value>
+  </data>
+  <data name="txtRFC.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="txtRFC.Text" xml:space="preserve">
+    <value>RFC</value>
+  </data>
+  <data name="txtRFC.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtRFC.Name" xml:space="preserve">
+    <value>txtRFC</value>
+  </data>
+  <data name="&gt;&gt;txtRFC.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtRFC.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtRFC.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtEdad.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Britannic Bold, 13.8pt</value>
+  </data>
+  <data name="txtEdad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 346</value>
+  </data>
+  <data name="txtEdad.Size" type="System.Drawing.Size, System.Drawing">
+    <value>342, 26</value>
+  </data>
+  <data name="txtEdad.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="txtEdad.Text" xml:space="preserve">
+    <value>Edad</value>
+  </data>
+  <data name="txtEdad.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtEdad.Name" xml:space="preserve">
+    <value>txtEdad</value>
+  </data>
+  <data name="&gt;&gt;txtEdad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtEdad.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtEdad.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -211,7 +454,7 @@
     <value>8, 16</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>784, 545</value>
+    <value>812, 545</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
